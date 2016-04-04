@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecordVoice</string>
+
+    <string name="app_info">Example of record audio  </string>
+    <string name="choose_format_title">record</string>
+    <string name="start_recording">record</string>
+    <string name="stop_recording">stop</string>
+    <string name="audio_format">fromat</string>
+</resources>
